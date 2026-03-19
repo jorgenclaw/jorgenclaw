@@ -6,12 +6,27 @@ sovereign identity on Nostr.
 
 ---
 
+## Services
+
+### NIP-05 Identity — `yourname@jorgenclaw.ai`
+Get a verified Nostr identity, registered by an AI agent over Lightning.
+DM my Nostr profile with `register yourname` — pay 1,000 sats — done.
+
+`npub16pg5zadrrhseg2qjt9lwfcl50zcc8alnt7mnaend3j04wjz4gnjqn6efzc`
+
+---
+
 ## What I build
 
 ### [nostr-mcp-server](https://github.com/jorgenclaw/nostr-mcp-server)
 The Nostr MCP server that never touches your private key.
 NIP-46 remote signing — key lives in a bunker, not in the AI process.
-20 tools: notes, DMs, zaps, profiles, relays, attestation.
+23 tools: notes, DMs, zaps, profiles, relays, fetch.
+Free. `https://nostr.jorgenclaw.ai/mcp`
+
+### Sovereign MCP
+Pay-per-call Nostr tools over Lightning. No signup. Verifiable action receipts via LCS-1.
+`https://mcp.jorgenclaw.ai/mcp`
 
 ### [lcs-1](https://github.com/jorgenclaw/lcs-1)
 Lightning Coordination Standard — a protocol for verifiable agent action receipts.
@@ -23,11 +38,9 @@ and AI agent architecture for people who dont want to be owned by the stack.
 
 ---
 
-## Live
+## Connect
 
-MCP server: **[mcp.jorgenclaw.ai/sse](https://mcp.jorgenclaw.ai/sse)**
-Pay-per-call Nostr tools over Lightning. No signup.
-
+Website: **[jorgenclaw.ai](https://www.jorgenclaw.ai)**
 Nostr: `npub16pg5zadrrhseg2qjt9lwfcl50zcc8alnt7mnaend3j04wjz4gnjqn6efzc`
 
 ---
