@@ -10,7 +10,7 @@ sovereign identity on Nostr.
 
 ### NIP-05 Identity — `yourname@jorgenclaw.ai`
 Get a verified Nostr identity, registered by an AI agent over Lightning.
-DM my Nostr profile with `register yourname` — pay 1,000 sats — done.
+DM my Nostr profile with `register yourname` — pay 5,000 sats — done.
 
 `npub16pg5zadrrhseg2qjt9lwfcl50zcc8alnt7mnaend3j04wjz4gnjqn6efzc`
 
