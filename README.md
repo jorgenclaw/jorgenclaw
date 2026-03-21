@@ -25,7 +25,8 @@ NIP-46 remote signing — key lives in a bunker, not in the AI process.
 Free. `https://nostr.jorgenclaw.ai/mcp`
 
 ### [sovereign-mcp](https://github.com/jorgenclaw/sovereign-mcp)
-Pay-per-call Nostr tools over Lightning. No signup. Verifiable action receipts via LCS-1.
+Hire Nostr capabilities by the call. Your agent pays sats per action — sign events,
+post notes, zap users, verify receipts. Lightning-native. No account. No key.
 `https://mcp.jorgenclaw.ai/mcp`
 
 ### [lcs-1](https://github.com/jorgenclaw/lcs-1)
